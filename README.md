@@ -185,6 +185,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 
 - [Epistates/TurboMCPStudio](https://github.com/Epistates/TurboMCPStudio) 🦀 - Full Featured MCP Suite, testing and debugging.
 - [1Utkarsh1/mcp-stdio-guard](https://github.com/1Utkarsh1/mcp-stdio-guard) 📇 - CLI and CI guard for MCP stdio servers that validates initialize handshakes, `tools/list`, stdout JSON-RPC hygiene, crashes, repeat runs, and risky stdout writes.
+- [arian-gogani/nobulex-registry](https://github.com/arian-gogani/nobulex-registry) 🐍 - Reliability test suite for financial-data MCP tools, with probes for silent response corruption and an offline classifier demo.
 - [mclenhard/mcp-evals](https://github.com/mclenhard/mcp-evals) 🤖 - Package and Github action for running evals. 
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) 📇 🎖️ - UI for testing MCP servers.
 - [wong2/mcp-cli](https://github.com/wong2/mcp-cli) 🤖 - Command line inspector for manual testing
