@@ -191,6 +191,7 @@ If an SDK is part of a monorepo, its popularity is counted as 0 stars.
 - [muppet-kit/inspector](https://github.com/muppet-dev/kit) - MCP Inspector with AI-assisted debugging and testing capabilities.
 - [loopwork-ai/Companion](https://github.com/loopwork-ai/Companion) - Companion is a utility for testing and debugging your MCP servers on macOS, iOS, and visionOS.
 - [garagon/aguara](https://github.com/garagon/aguara) 🏎️ - Static security scanner for MCP servers and AI agent skills. 173 detection rules, prompt injection, credential leaks, taint tracking. Scans configs and tool descriptions before deployment.
+- [DSHCorrectover/correctover-scan](https://github.com/DSHCorrectover/correctover-scan) 📇 - Zero-config CLI security scanner for MCP configs across Claude Desktop, Cursor, VS Code, and generic mcp.json. Checks credential exposure, SSRF protection, auth and transport encryption, with JSON/SARIF output for CI. Runs via `npx correctover-scan`.
 - [greynewell/mcpbr](https://github.com/greynewell/mcpbr) 🐍 - Benchmark runner for evaluating MCP server performance and agentic capabilities.
 - [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor) 📇 - Zero-config CLI that auto-discovers MCP configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop. Tests connections via JSON-RPC handshake, audits for security issues, and benchmarks latency.
 - [markndg/mcp-probe](https://github.com/markndg/mcp-probe) 🦀 - Rust CLI that validates conformance, schema correctness, and capability negotiation against any MCP server.
