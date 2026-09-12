@@ -239,7 +239,7 @@ Public test endpoints:
 
 ### Development Tools
 
-- [ai-ward/greenlight](https://github.com/ai-ward/greenlight) 🐍 - Transparent stdio/HTTP proxy that logs every MCP message to JSONL, with a colorized live trace viewer and a stats command with a CI-usable exit code.
+- [bradsward/greenlight](https://github.com/bradsward/greenlight) 🐍 - Transparent stdio/HTTP proxy that logs every MCP message to JSONL, with a colorized live trace viewer and a stats command with a CI-usable exit code.
 - [Epistates/TurboMCPStudio](https://github.com/Epistates/TurboMCPStudio) 🦀 - Full Featured MCP Suite
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
