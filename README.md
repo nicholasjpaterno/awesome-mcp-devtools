@@ -241,6 +241,7 @@ Public test endpoints:
 
 ### Development Tools
 
+- [D'AUBE // BRIDGE²](https://github.com/daubesonntag-dotcom/daube-agent-bridge) 🐍 - Universal AI skill compiler and MCP bridge: compile one portable YAML capability spec into MCP plus OpenAI/Codex, Claude, Gemini, DeepSeek, Meta/Llama, and browser integration artifacts. Published in the official MCP Registry with reproducible MCPB releases.
 - [Epistates/TurboMCPStudio](https://github.com/Epistates/TurboMCPStudio) 🦀 - Full Featured MCP Suite
 - [inercia/mcpshell](https://github.com/inercia/mcpshell) 🏎️ - Use shell scripts as MCP tools.
 - [ithena-one/ithena-cli](https://github.com/ithena-one/ithena-cli) 🏎️ - Wraps MCP commands to log interactions locally, facilitating debugging and interaction audits. Optional cloud.
